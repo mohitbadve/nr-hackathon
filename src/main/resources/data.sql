@@ -1,1 +1,0 @@
-INSERT INTO PAYMENT_TRANSACTION (id, creditor_account_number, debtor_account_number, amount, timestamp) VALUES (1, '1000000001', '1000000002', 100, '2024-14-03 10:28:00');
